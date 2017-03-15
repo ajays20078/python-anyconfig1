@@ -1,0 +1,9 @@
+#Jinja2  # Disabled until all errors during tests are resolved.
+PyYAML
+configobj
+jsonschema
+msgpack-python
+ordereddict
+pymongo
+simplejson
+toml
